@@ -1,0 +1,7 @@
+.form-floating textarea.form-control {
+    height: 100px;
+}
+
+.adminMode .main .bx-context-toolbar-empty-area {
+    min-height: 500px !important;
+}
